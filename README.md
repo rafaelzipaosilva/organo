@@ -1,3 +1,6 @@
+## Figma ##
+https://www.figma.com/file/x9uVdOU4ezJJT2A4gnnLMB/Projeto-Intro-ao-React-(Copy)?node-id=134-143&t=1mo56ZkQ8tQaPVBO-0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
