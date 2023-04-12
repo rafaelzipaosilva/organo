@@ -3,7 +3,7 @@
 ![Licence](https://img.shields.io/static/v1?label=License&message=MIT&color=ffffff)
 ![HTML](https://img.shields.io/static/v1?label=Language&message=HTML%205&color=red)
 ![CSS](https://img.shields.io/static/v1?label=Language&message=CSS%203&color=blue)
-![REACT](https://img.shields.io/static/v1?label=Extension&message=SCSS&color=violet)
+![REACT](https://img.shields.io/static/v1?label=Extension&message=React&color=violet)
 ![JAVASCRIPT](https://img.shields.io/static/v1?label=Language&message=Javascript&color=yellow)
 
 
