@@ -1,73 +1,36 @@
-## Figma ##
-https://www.figma.com/file/x9uVdOU4ezJJT2A4gnnLMB/Projeto-Intro-ao-React-(Copy)?node-id=134-143&t=1mo56ZkQ8tQaPVBO-0
+# Organo
 
-# Getting Started with Create React App
+![Licence](https://img.shields.io/static/v1?label=License&message=MIT&color=ffffff)
+![HTML](https://img.shields.io/static/v1?label=Language&message=HTML%205&color=red)
+![CSS](https://img.shields.io/static/v1?label=Language&message=CSS%203&color=blue)
+![REACT](https://img.shields.io/static/v1?label=Extension&message=SCSS&color=violet)
+![JAVASCRIPT](https://img.shields.io/static/v1?label=Language&message=Javascript&color=yellow)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Organo**
+| :label: Tecnologias | HTML, CSS, Javascript, React
+| :rocket: URL         | https://github.com/rafaelzipaosilva/organo
+| :tv: Canal de referência | https://www.alura.com.br
+<!--| :fire: Desafio     | https://url-do-desafio.com.br -->
 
-In the project directory, you can run:
 
-### `npm start`
+## Detalhes do projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Esse projeto é uma sequência de 2 cursos da Alura sobre como montar uma página WEB utilizando o React para organizar e estilizar a página para facilitar a sua manutenção e sua ampliação.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Ao utilizar o React e suas estruturas de funcionamento, o código fica muito mais simples e podemos reaproveitar os componentes que criamos, passando pela revisão, ampliação, e efeito cascata de funções e constantes criadas na aplicação.
 
-### `npm test`
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+<!-- Resultado do Menu Mágico 1
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Menu Mágico 1](https://user-images.githubusercontent.com/29807231/211110295-3d12c62d-ebc6-4094-a41f-1283c59b3f8f.png#vitrinedev)
 
-### `npm run build`
+Resultado do Menu Mágico 2
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Menu Mágico 2](https://user-images.githubusercontent.com/29807231/211109951-31f5dec4-eed4-43db-a8eb-17b248fea273.png#vitrinedev)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Resultado do Menu Mágico 3
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Menu Mágico 3](https://user-images.githubusercontent.com/29807231/211110181-d8affca8-0405-42df-90d8-ba578c1f1f88.png#vitrinedev) -->
